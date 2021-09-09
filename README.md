@@ -6,9 +6,9 @@
 
 I'm **César Chávez** (he/him). I'm an Ux Engineer living now in Morelia, Michoacán; currently working with Scio Consulting and Aceable. I'm passionate with the design and development of products that can change the world for good, looking to create something important someday.
 
-👀 I’m interested in small products that can scale with the time
-🌱 I’m currently learning how to live without rush
-💞️ I’m looking to collaborate on building a better world!
+- 👀 I’m interested in small products that can scale with the time
+- 🌱 I’m currently learning how to live without rush
+- 💞️ I’m looking to collaborate on building a better world!
 
 ## 📫 Contact Me
 
