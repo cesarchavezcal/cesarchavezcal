@@ -1,7 +1,7 @@
 # Hi there 👋, I'm César Chávez! 🇲🇽
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/cchavezhello?label=Follow)](https://twitter.com/cchavezhello)
-[![Linkedin: cchavez0192](https://img.shields.io/badge/-Cesar%20Chavez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cchavez0192/)](https://www.linkedin.com/in/thedaviddias/)
+[![Linkedin: cchavez0192](https://img.shields.io/badge/-Cesar%20Chavez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cchavez0192/)](https://www.linkedin.com/in/cchavez0192/)
 [![Dribbble: cesarchavezcal](https://img.shields.io/badge/-Cesar%20Chavez-ea4c89?style=flat-square&logo=Dribbble&logoColor=white&link=https://dribbble.com/cesarchavezcal/)](https://dribbble.com/cesarchavezcal/)
 
 I'm **César Chávez** (he/him). I'm an Ux Engineer living now in Morelia - 🇲🇽.
